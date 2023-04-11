@@ -1,0 +1,66 @@
+.mat-cover{
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+.images{
+  width: 100%;
+  height: auto;
+}
+.font-under{
+  font-weight: 600;
+  font-family: "Calibri Light", serif;
+}
+
+.versa_text{
+  font-family: Calibri, sans-serif;
+  font-size: 7.5em;
+  line-height: 100%;
+  color: #1d2951;
+  -moz-user-select: none;
+  animation: 2s;
+}
+.mat-additional-cards{
+  width: 20%;
+  margin-right: 1.1%;
+}
+.add-text{
+  font-family: "Typo Round Regular Demo",sans-serif;
+}
+.hr-uv,
+progress::-moz-progress-bar{
+  height: 5px;
+  border-radius: 5px;
+  width: 75%;
+}
+
+progress[value] {
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+}
+
+progress::-moz-progress-bar {
+  background: #ffcf44 ;
+}
+
+
+/*.green{*/
+/*  background-color: #36e9b6;*/
+/*  border-radius: 10px ;*/
+/*}*/
+/*.yellow,*/
+/*progress::-moz-progress-bar {*/
+/*  background-color: #ffcf44 ;*/
+/*  border-radius: 10px ;*/
+/*}*/
+/*.orange,*/
+/*progress::-moz-progress-bar {*/
+/*  background-color: #fe7900 ;*/
+/*  border-radius: 10px ;*/
+/*}*/
+/*.red,*/
+/*progress::-moz-progress-bar {*/
+/*  background-color: #e74a4a ;*/
+/*  border-radius: 10px ;*/
+/*}*/
